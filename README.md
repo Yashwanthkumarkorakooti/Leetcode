@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
