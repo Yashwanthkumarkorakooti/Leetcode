@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
