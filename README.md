@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -169,9 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
