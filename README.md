@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
