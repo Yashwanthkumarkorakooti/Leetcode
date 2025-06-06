@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0735-asteroid-collision) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
