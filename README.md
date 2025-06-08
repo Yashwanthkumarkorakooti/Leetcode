@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
