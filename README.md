@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0455-assign-cookies) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
