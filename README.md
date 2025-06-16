@@ -236,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
