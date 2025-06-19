@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
@@ -230,10 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
