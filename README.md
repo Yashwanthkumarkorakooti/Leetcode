@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
