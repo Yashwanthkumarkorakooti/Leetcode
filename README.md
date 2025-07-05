@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
