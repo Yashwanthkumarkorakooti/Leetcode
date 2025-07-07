@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
