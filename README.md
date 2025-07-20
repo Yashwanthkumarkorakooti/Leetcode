@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0198-house-robber) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0455-assign-cookies) |
