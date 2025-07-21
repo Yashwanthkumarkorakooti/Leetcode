@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Greedy
 |  |
 | ------- |
