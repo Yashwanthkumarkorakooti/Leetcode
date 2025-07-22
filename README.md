@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
 | ------- |
