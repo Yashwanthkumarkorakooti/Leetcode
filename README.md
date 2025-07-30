@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2383-add-two-integers) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
