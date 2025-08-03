@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
