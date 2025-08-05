@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0735-asteroid-collision) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -379,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
