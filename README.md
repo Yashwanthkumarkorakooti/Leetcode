@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -418,9 +420,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0113-path-sum-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0113-path-sum-ii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
