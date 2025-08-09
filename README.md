@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
