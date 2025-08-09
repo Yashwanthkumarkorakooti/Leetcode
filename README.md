@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0322-coin-change) |
@@ -406,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
