@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0319-bulb-switcher) |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
 | [2383-add-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2383-add-two-integers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
+| [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -382,10 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
