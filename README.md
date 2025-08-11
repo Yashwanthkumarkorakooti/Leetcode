@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0402-remove-k-digits) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0113-path-sum-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Biconnected Component
