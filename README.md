@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
