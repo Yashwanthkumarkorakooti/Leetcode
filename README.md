@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sorting
 |  |
