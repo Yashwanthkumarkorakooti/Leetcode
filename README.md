@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0735-asteroid-collision) |
+| [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3790-fruits-into-baskets-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
