@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0055-jump-game) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
