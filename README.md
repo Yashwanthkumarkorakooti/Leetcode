@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
