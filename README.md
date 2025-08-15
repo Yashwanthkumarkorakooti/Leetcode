@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0342-power-of-four) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
