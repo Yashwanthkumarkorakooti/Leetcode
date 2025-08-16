@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [1448-maximum-69-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Linked List
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sliding Window
 |  |
