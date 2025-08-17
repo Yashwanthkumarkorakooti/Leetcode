@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0867-new-21-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0867-new-21-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0867-new-21-game) |
 ## Tree
 |  |
 | ------- |
