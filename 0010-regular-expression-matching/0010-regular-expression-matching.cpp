@@ -1,24 +1,30 @@
 class Solution {
 public:
-    bool solve(string s, string p){
-        if(p.length() == 0){
-            return s.length() == 0;
+    int t[21][21];
+    bool solve(int i,int j,string s, string p){
+        if(p.length() == j){
+            return s.length() == i;
+        }
+
+        if(t[i][j] != -1){
+            return t[i][j];
         }
 
         bool first_char_method = false;
-        if(s.length() > 0 && (p[0] == s[0] || p[0] == '.')){
+        if(s.length() > i && (p[j] == s[i] || p[j] == '.')){
             first_char_method = true;
         }
 
-        if(p[1] == '*'){
-            bool not_take = solve(s,p.substr(2));
-            bool take = first_char_method && solve(s.substr(1),p);
-            return not_take || take ;
+        if(p[j+1] == '*'){
+            bool not_take = solve(i,j+2,s,p);
+            bool take = first_char_method && solve(i+1,j,s,p);
+            return t[i][j] = not_take || take ;
         }
-        
-        return first_char_method && solve(s.substr(1),p.substr(1));
+
+        return t[i][j] = first_char_method && solve(i+1,j+1,s,p);
     }
     bool isMatch(string s, string p) {
-        return solve(s,p);
+        memset(t,-1,sizeof(t));
+        return solve(0,0,s,p);
     }
 };
