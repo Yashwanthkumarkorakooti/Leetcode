@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
