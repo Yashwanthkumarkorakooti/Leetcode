@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0867-new-21-game) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Tree
 |  |
 | ------- |
