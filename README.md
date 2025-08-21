@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [1073-number-of-enclaves](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2662-check-knight-tour-configuration](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
