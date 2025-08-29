@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Linked List
 |  |
 | ------- |
