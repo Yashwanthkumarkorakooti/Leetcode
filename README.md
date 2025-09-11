@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Union Find
