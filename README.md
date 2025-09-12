@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
@@ -507,11 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
 | ------- |
