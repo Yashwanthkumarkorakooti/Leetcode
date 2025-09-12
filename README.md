@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1448-maximum-69-number) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sliding Window
 |  |
