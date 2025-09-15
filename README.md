@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2689-rearranging-fruits](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0721-accounts-merge) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
