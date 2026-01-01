@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0231-power-of-two) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yashwanthkumarkorakooti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
